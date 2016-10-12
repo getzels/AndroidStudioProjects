@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PasoParametrosIntent</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="title_activity_main">Lista de Compras</string>
+    <string name="agregarElemento">Agregar Elemento</string>
+    <string name="agregarDescElemento">Descripción Elemento</string>
+    <string name="resultado">Resultado</string>
+    <string name="escribe">Escribe</string>
+    <string name="enviar">Enviar</string>
+    <string name="informacion">Informacion</string>
+</resources>
